@@ -1,3 +1,3 @@
 # repositoriopro
 Repositorio melhores cachorros
-<link>cachorrando.com
+<link>http://cachorrando.com
